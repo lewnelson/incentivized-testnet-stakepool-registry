@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk13da6q88gadxjzanapqn8d68ez525fk54ss4msyphx7y9uq3kznwsj5pzxp",
+  "name": "My Stake Pool",
+  "description": "My awesome stake pool",
+  "ticker": "SWIM",
+  "homepage": "https://cardanofoundation.org",
+  "pledge_address": "addr1sk9hhgquar456gtk05yzvahgly2323x6jkzzhwqsxumcshszxc2d6zlwfu9"
+}
